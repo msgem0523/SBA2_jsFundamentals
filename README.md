@@ -32,9 +32,9 @@ The logic is written in **vanilla JavaScript** and runs in the browser console.
 
 ## 📁 Project Structure
 
-|——index.html - Loads the JavaScript logic
-|——index.js - Core data processing logic
-|——README.md - Project documentation
+├── index.html – Loads the JavaScript logic
+├── index.js – Core data processing logic
+└── README.md – Project documentation
 
 
 ---
